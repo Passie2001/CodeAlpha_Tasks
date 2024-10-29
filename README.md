@@ -1,2 +1,2 @@
-# Internship_Projects
-This repository contains files of all projects that I did at CodeAlpha as as Intern.
+ This project aims to analyze the likelihood of survival among passengers and to identify the factors that significantly impacted survival rates, as well as those that held no substantial influence in a Titanic ship. The RMS Titanic, a British passenger liner, stood as one of the largest and most opulent ships of its era,. In 1912, the Titanic tragically struck an iceberg in the Nort Atlantic Ocean, leading to catastrophic damage and, ultimately a devastating loss of life.
+ 
